@@ -24,8 +24,9 @@ This repository hosts the **official implementation** of the paper
 > Accepted in **WACV 2026 (Round 2)**.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee899b81-fbf1-47d8-9c08-bba5f8efffcd" width="90%" alt="V2XScene Overview"/>
+  <img src="https://github.com/user-attachments/assets/7f33a22c-2829-4ab8-a1e6-7c6638bf2e2d" width="90%" alt="V2XScene Overview"/>
 </div>
+
 
 ---
 
